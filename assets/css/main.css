@@ -638,6 +638,11 @@ input, select, textarea {
 
 /* Image */
 
+.responsive {
+	width: 100%;
+	height: auto;
+}
+
 	.image {
 		border-radius: 4px;
 		border: 0;
