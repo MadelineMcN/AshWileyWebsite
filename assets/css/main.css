@@ -1155,7 +1155,7 @@ input, select, textarea {
  repeat;
 			z-index: 2;
 		}
-
+/*this is the bg */
 		#bg:after {
 			-moz-transform: scale(1.125);
 			-webkit-transform: scale(1.125);
@@ -1539,7 +1539,7 @@ input, select, textarea {
 		max-width: 100%;
 		z-index: 3;
 	}
-
+/*Body of each section*/
 		#main article {
 			-moz-transform: translateY(0.25rem);
 			-webkit-transform: translateY(0.25rem);
